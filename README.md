@@ -1,2 +1,2 @@
-# pre-work-phase-2-fundamentals
+# Fundamentals
 Phase 2 pre work Fundamentals
